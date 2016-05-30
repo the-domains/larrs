@@ -1,0 +1,14 @@
+layout_spectrum: 0.2285691045690328
+typography_spectrum: 0.23366634198464453
+color:
+  brandStrength: 0.9136867225170135
+  lightness: 0.7332532401196659
+  saturation: 0.6740408570040017
+  rhythmicContrast: 0.899329440202564
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: "Larr's"
